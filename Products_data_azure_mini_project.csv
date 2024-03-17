@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Price(USD)
+1,T-Shirt,Clothing,19.99
+2,Laptop,Electronics,899.99
+3,Headphones,Electronics,79.99
+4,Coffee Maker,Kitchen,49.99
+5,Book,Books,14.99
+6,Smartphone,Electronics,599.99
+7,Running Shoes,Sports,74.99
+8,Watch,Accessories,199.99
+9,Video Game,Games,59.99
+10,Board Game,Games,34.99
+11,Backpack,Accessories,49.99
+12,Camera,Electronics,349.99
+13,Printer,Office Supplies,79.99
+14,Desk Lamp,Office Supplies,29.99
+15,Jeans,Clothing,39.99
+16,Sweatshirt,Clothing,24.99
+17,Speakers,Electronics,99.99
+18,Tablet,Electronics,249.99
+19,Kitchen Knife Set,Kitchen,49.99
+20,Yoga Mat,Sports,29.99
