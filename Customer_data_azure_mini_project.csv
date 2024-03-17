@@ -1,0 +1,51 @@
+customer_id,first_name,last_name,email,phone_number,address,city,state,postal_code,country,date_registered,date_last_updated,sales_id
+1,John,Doe,john.doe@example.com,123-456-7890,123 Main St,Anytown,NY,12345,USA,15-01-2023,25-02-2024 08:30,1001
+2,Jane,Smith,jane.smith@example.com,456-789-0123,456 Elm St,Springfield,IL,67890,USA,20-02-2023,05-03-2024 14:45,1002
+3,David,Johnson,david.johnson@example.com,789-012-3456,789 Oak St,Lakeside,CA,54321,USA,10-03-2023,28-02-2024 11:20,1003
+4,Sarah,Williams,sarah.williams@example.com,012-345-6789,987 Pine St,Hillcrest,TX,9876,USA,05-04-2023,01-03-2024 09:10,1004
+5,Michael,Brown,michael.brown@example.com,345-678-9012,654 Birch St,Rivertown,FL,65432,USA,12-05-2023,27-02-2024 13:55,1005
+6,Emily,Davis,emily.davis@example.com,678-901-2345,321 Cedar St,Forestville,WA,21098,USA,18-06-2023,02-03-2024 10:45,1006
+7,Christopher,Wilson,chris.wilson@example.com,901-234-5678,879 Maple St,Hillside,NJ,56789,USA,23-07-2023,26-02-2024 12:30,1007
+8,Amanda,Garcia,amanda.garcia@example.com,234-567-8901,123 Willow St,Brookside,PA,78901,USA,30-08-2023,03-03-2024 11:15,1008
+9,Daniel,Martinez,daniel.martinez@example.com,567-890-1234,456 Rose St,Greenfield,OH,34567,USA,14-09-2023,29-02-2024 08:50,1009
+10,Jessica,Rodriguez,jessica.rodriguez@example.com,890-123-4567,789 Sunflower St,Sunnyside,AZ,12345,USA,05-10-2023,04-03-2024 14:20,1010
+11,Matthew,Hernandez,matthew.hernandez@example.com,012-345-6789,987 Daisy St,Garden Grove,CA,67890,USA,19-11-2023,28-02-2024 09:30,1011
+12,Ashley,Lopez,ashley.lopez@example.com,345-678-9012,654 Tulip St,Bloomfield,NM,9876,USA,25-12-2023,05-03-2024 13:40,1012
+13,Andrew,Gonzalez,andrew.gonzalez@example.com,678-901-2345,321 Lily St,Riverdale,UT,65432,USA,03-01-2024,06-03-2024 10:25,1013
+14,Olivia,Perez,olivia.perez@example.com,901-234-5678,879 Orchid St,Hillcrest,TX,21098,USA,09-02-2024,01-03-2024 12:15,1014
+15,Ethan,Torres,ethan.torres@example.com,234-567-8901,123 Magnolia St,Brookside,PA,56789,USA,15-03-2024,02-03-2024 11:05,1015
+16,Isabella,Ramirez,isabella.ramirez@example.com,567-890-1234,456 Violet St,Greenfield,OH,78901,USA,02-04-2024,27-02-2024 08:40,1016
+17,Joshua,Barnes,joshua.barnes@example.com,890-123-4567,789 Daisy St,Sunnyside,AZ,34567,USA,08-05-2024,03-03-2024 14:30,1017
+18,Sophia,Fisher,sophia.fisher@example.com,123-456-7890,987 Lily St,Springfield,IL,54321,USA,16-06-2024,25-02-2024 08:30,1018
+19,William,King,william.king@example.com,456-789-0123,654 Rose St,Lakeside,CA,9876,USA,21-07-2024,05-03-2024 14:45,1019
+20,Mia,Wright,mia.wright@example.com,789-012-3456,321 Sunflower St,Hillcrest,TX,65432,USA,10-08-2024,28-02-2024 11:20,1020
+21,James,Lee,james.lee@example.com,012-345-6789,879 Cedar St,Rivertown,FL,21098,USA,04-09-2024,01-03-2024 09:10,1021
+22,Ava,Adams,ava.adams@example.com,345-678-9012,123 Maple St,Forestville,WA,56789,USA,15-10-2024,27-02-2024 13:55,1022
+23,Noah,Nelson,noah.nelson@example.com,678-901-2345,456 Willow St,Hillside,NJ,12345,USA,23-11-2024,02-03-2024 10:45,1023
+24,Mia,Martinez,mia.martinez@example.com,901-234-5678,789 Oak St,Brookside,PA,67890,USA,30-12-2024,26-02-2024 12:30,1024
+25,Liam,Lopez,liam.lopez@example.com,234-567-8901,987 Elm St,Greenfield,OH,9876,USA,10-01-2025,03-03-2024 11:15,1025
+26,Emma,Taylor,emma.taylor@example.com,567-890-1234,654 Oak St,Sunnyside,AZ,65432,USA,18-02-2025,29-02-2024 08:50,1026
+27,Elijah,Thomas,elijah.thomas@example.com,890-123-4567,321 Elm St,Garden Grove,CA,21098,USA,25-03-2025,04-03-2024 14:20,1027
+28,Amelia,Harris,amelia.harris@example.com,012-345-6789,879 Oak St,Bloomfield,NM,56789,USA,29-04-2025,28-02-2024 09:30,1028
+29,Oliver,Clark,oliver.clark@example.com,345-678-9012,123 Maple St,Riverdale,UT,12345,USA,30-05-2025,05-03-2024 13:40,1029
+30,Harper,Lewis,harper.lewis@example.com,678-901-2345,456 Cedar St,Hillcrest,TX,67890,USA,14-06-2025,06-03-2024 10:25,1030
+31,Benjamin,Robinson,benjamin.robinson@example.com,901-234-5678,789 Pine St,Brookside,PA,9876,USA,23-07-2025,01-03-2024 12:15,1031
+32,Charlotte,Walker,charlotte.walker@example.com,234-567-8901,987 Elm St,Sunnyside,AZ,65432,USA,08-08-2025,02-03-2024 11:05,1032
+33,Lucas,Perez,lucas.perez@example.com,567-890-1234,123 Cedar St,Garden Grove,CA,21098,USA,11-09-2025,27-02-2024 08:40,1033
+34,Lily,Hill,lily.hill@example.com,890-123-4567,456 Maple St,Bloomfield,NM,56789,USA,20-10-2025,03-03-2024 14:30,1034
+35,Henry,Scott,henry.scott@example.com,012-345-6789,789 Oak St,Rivertown,FL,12345,USA,09-11-2025,26-02-2024 09:20,1035
+36,Grace,Gonzales,grace.gonzales@example.com,345-678-9012,987 Pine St,Lakeside,CA,67890,USA,05-12-2025,04-03-2024 13:15,1036
+37,Jackson,Young,jackson.young@example.com,678-901-2345,654 Cedar St,Hillside,NJ,9876,USA,30-01-2026,05-03-2024 14:45,1037
+38,Victoria,Allen,victoria.allen@example.com,901-234-5678,321 Maple St,Brookside,PA,65432,USA,25-02-2026,01-03-2024 09:10,1038
+39,Aiden,Carter,aiden.carter@example.com,234-567-8901,123 Cedar St,Greenfield,OH,21098,USA,15-03-2026,02-03-2024 10:45,1039
+40,Zoe,Hall,zoe.hall@example.com,567-890-1234,456 Elm St,Sunnyside,AZ,56789,USA,09-04-2026,28-02-2024 11:20,1040
+41,Charles,Perez,charles.perez@example.com,890-123-4567,789 Oak St,Garden Grove,CA,12345,USA,03-05-2026,03-03-2024 11:15,1041
+42,Nora,Evans,nora.evans@example.com,012-345-6789,987 Pine St,Bloomfield,NM,67890,USA,20-06-2026,29-02-2024 08:50,1042
+43,Leo,Long,leo.long@example.com,345-678-9012,654 Cedar St,Riverdale,UT,9876,USA,17-07-2026,04-03-2024 14:20,1043
+44,Eleanor,Morris,eleanor.morris@example.com,678-901-2345,321 Maple St,Hillcrest,TX,65432,USA,05-08-2026,05-03-2024 13:40,1044
+45,Theodore,Murphy,theodore.murphy@example.com,901-234-5678,123 Cedar St,Brookside,PA,21098,USA,14-09-2026,06-03-2024 10:25,1045
+46,Ella,Rivera,ella.rivera@example.com,234-567-8901,456 Elm St,Sunnyside,AZ,56789,USA,10-10-2026,01-03-2024 12:15,1046
+47,Lincoln,Cooper,lincoln.cooper@example.com,567-890-1234,789 Oak St,Garden Grove,CA,12345,USA,29-11-2026,02-03-2024 11:05,1047
+48,Clara,Reed,clara.reed@example.com,890-123-4567,987 Pine St,Bloomfield,NM,67890,USA,25-12-2026,27-02-2024 08:40,1048
+49,Xavier,Bailey,xavier.bailey@example.com,012-345-6789,654 Cedar St,Riverdale,UT,9876,USA,30-01-2027,03-03-2024 14:30,1049
+50,Lucy,Sanders,lucy.sanders@example.com,345-678-9012,321 Maple St,Hillside,NJ,65432,USA,18-02-2027,26-02-2024 09:20,1050
